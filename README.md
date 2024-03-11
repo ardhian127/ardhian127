@@ -14,7 +14,5 @@ I'm Ardhian, a passionate who loves to build cool stuff with code. 👨‍💻<b
 #
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-###
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

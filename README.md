@@ -1,5 +1,5 @@
 # 💫Hello!
-I'm Ardhian, a passionate who loves to build cool stuff with code. 👨‍💻<br><br> 🌱 I’m currently learning ReactJS and growing every day.<br> 📫 You can reach me at ardhianjayawibawa@gmail.com<br> 😄 Pronouns: He/Him
+I'm Ardhian, a passionate who loves to build cool stuff with code. 👨‍💻<br><br> 🌱 I’m currently learning and growing every day.<br> 📫 You can reach me at ardhianjayawibawa@gmail.com<br> 😄 Pronouns: He/Him
 
 
 ## 🌐Socials:
